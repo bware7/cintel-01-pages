@@ -8,7 +8,7 @@ Here's a clickable link: [Visit my GitHub](https://github.com/bware7)
 
 ## Image
 
-![My Project Image](image.png)
+![My Project Image](GWCC_Bin_Ware.jpg)
 
 ## Reminders
 
